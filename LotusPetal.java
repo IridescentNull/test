@@ -4,5 +4,7 @@ public class LotusPetal{
 
 		System.out.println("The ultimate Gamemaster can defeat the ultimate Creater?")
 
-		System.put.println("Does the ultimate solo-player have dreams with the electronic zombie?")
+		System.out.println("Does the ultimate solo-player have dreams with the electronic zombie?")
+
+		System.out.println("Hmm... I have a question about you, Ms Miu. "What do you eat this mornig?"")
 }}
