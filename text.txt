@@ -1,1 +1,2 @@
-test //すいへーりーべ
+test 
+System.out.println("水素ヘリウム");//すいへーりーべ
