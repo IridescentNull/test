@@ -14,9 +14,12 @@ public class LotusPetal{
 
 		System.out.println("Stop, stop Saihara! I got it, I know, ...this fucking school has many many strange points!");
 
-		System.out.println("But, why, ...why do you interrogate me? I don't..." );
+		System.out.println("But, why, ...why do you so interrogate me? I don't..." );
 
 		System.out.println("I realize that, Miu, YOU are the ringleader of this corpse party!");
 		
+		System.out.println("The first chance to solve that was very tiny thing... When I first met monokuma, I was with Ms. Yumeno and Ms. Tojo");
+
+		System.out.println("Second, I met him with Mr. Momota and Ms. Chabasira.");
 		
 }}
